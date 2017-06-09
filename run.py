@@ -1,3 +1,6 @@
+# This Script Programing By Bnsena
+# Email :binsaleh055@gmail.com
+# IG:@RPL
 import os
 import smtplib
 os.system('clear')
